@@ -1,7 +1,7 @@
 {
-  "name": "pa4",
+  "name": "paa4-and-fsa",
   "version": "1.0.0",
-  "description": "A basic CRUD application for PA #4 of CS 2240",
+  "description": "Basic CRUD app for a school management system, consisting of teachers, students, and subjects.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "handlebars",
     "express"
   ],
-  "author": "Cyril Olanolan",
+  "author": "Alexandra Lanorias",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15"
