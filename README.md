@@ -51,7 +51,7 @@ DB_PASS = ''
 ```
 
 5. Then edit the .env file according to your username and password that you use in phpmyadmin
-6. We'll be using port 5000 for this activity. If your port 5000 is already used go to this app.js file and find 'const PORT = process.env.PORT || 5000;'
+6. We'll be using port 5000 for this activity. If your port 5000 is already used go to the app.js file and find 'const PORT = process.env.PORT || 5000;'
 7. Edit '5000' with whatever port you want to replace it with
 8. Open the lanorias-paa4-fsa folder in your file explorer
 9. Shift + Right click and select 'Open powershell windows here'
