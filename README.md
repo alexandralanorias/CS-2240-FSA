@@ -39,7 +39,7 @@ Edit subject details
 Sadly, I haven't implemented this in my [main website](https://alexandralanorias.github.io/) as this app is made using Node.JS and Handlebars, among others. But below are the steps to run this app locally in your own computer.
 
 1. First things first, open xampp and start apache and mysql
-2. Create a database in localhost/phpmyadmin named school_management_system
+2. Create a database in localhost/phpmyadmin named `school_management_system`
 3. Copy-paste the queries found in the `school-schema.sql` file in the sql tab
 4. Create a `.env` file with the following format:
 
